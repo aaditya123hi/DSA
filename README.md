@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aaditya123hi/DSA/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aaditya123hi/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aaditya123hi/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aaditya123hi/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aaditya123hi/DSA/tree/master/0048-rotate-image) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aaditya123hi/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Matrix
 |  |
 | ------- |
