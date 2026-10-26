@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aaditya123hi/DSA/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aaditya123hi/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aaditya123hi/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/aaditya123hi/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aaditya123hi/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/aaditya123hi/DSA/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/aaditya123hi/DSA/tree/master/3024-type-of-triangle) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/aaditya123hi/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [3024-type-of-triangle](https://github.com/aaditya123hi/DSA/tree/master/3024-type-of-triangle) |
 ## Polygons
 |  |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aaditya123hi/DSA/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/aaditya123hi/DSA/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
