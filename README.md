@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aaditya123hi/DSA/tree/master/0048-rotate-image) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aaditya123hi/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/aaditya123hi/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aaditya123hi/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/aaditya123hi/DSA/tree/master/2652-sum-multiples) |
