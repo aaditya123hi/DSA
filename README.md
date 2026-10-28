@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aaditya123hi/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/aaditya123hi/DSA/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/aaditya123hi/DSA/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/aaditya123hi/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Math
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/aaditya123hi/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/aaditya123hi/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/aaditya123hi/DSA/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/aaditya123hi/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Matrix
 |  |
 | ------- |
