@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/aaditya123hi/DSA/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/aaditya123hi/DSA/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/aaditya123hi/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aaditya123hi/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/aaditya123hi/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/aaditya123hi/DSA/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/aaditya123hi/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aaditya123hi/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Matrix
 |  |
 | ------- |
