@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/aaditya123hi/DSA/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/aaditya123hi/DSA/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/aaditya123hi/DSA/tree/master/1672-richest-customer-wealth) |
+| [1816-truncate-sentence](https://github.com/aaditya123hi/DSA/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aaditya123hi/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/aaditya123hi/DSA/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aaditya123hi/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/aaditya123hi/DSA/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/aaditya123hi/DSA/tree/master/0709-to-lower-case) |
+| [1816-truncate-sentence](https://github.com/aaditya123hi/DSA/tree/master/1816-truncate-sentence) |
 | [2942-find-words-containing-character](https://github.com/aaditya123hi/DSA/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/aaditya123hi/DSA/tree/master/3019-number-of-changing-keys) |
 ## Sorting
