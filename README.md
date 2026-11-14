@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/aaditya123hi/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3285-find-indices-of-stable-mountains](https://github.com/aaditya123hi/DSA/tree/master/3285-find-indices-of-stable-mountains) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aaditya123hi/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3895-count-digit-appearances](https://github.com/aaditya123hi/DSA/tree/master/3895-count-digit-appearances) |
 ## Math
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/aaditya123hi/DSA/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/aaditya123hi/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aaditya123hi/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3895-count-digit-appearances](https://github.com/aaditya123hi/DSA/tree/master/3895-count-digit-appearances) |
 ## Matrix
 |  |
 | ------- |
