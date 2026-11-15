@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/aaditya123hi/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/aaditya123hi/DSA/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/aaditya123hi/DSA/tree/master/1550-three-consecutive-odds) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/aaditya123hi/DSA/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1672-richest-customer-wealth](https://github.com/aaditya123hi/DSA/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/aaditya123hi/DSA/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aaditya123hi/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/aaditya123hi/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aaditya123hi/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aaditya123hi/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/aaditya123hi/DSA/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [3024-type-of-triangle](https://github.com/aaditya123hi/DSA/tree/master/3024-type-of-triangle) |
 ## Polygons
 |  |
