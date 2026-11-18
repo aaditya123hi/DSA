@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/aaditya123hi/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/aaditya123hi/DSA/tree/master/0048-rotate-image) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aaditya123hi/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0507-perfect-number](https://github.com/aaditya123hi/DSA/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/aaditya123hi/DSA/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aaditya123hi/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/aaditya123hi/DSA/tree/master/1486-xor-operation-in-an-array) |
