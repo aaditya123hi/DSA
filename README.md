@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/aaditya123hi/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/aaditya123hi/DSA/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/aaditya123hi/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1903-largest-odd-number-in-string](https://github.com/aaditya123hi/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/aaditya123hi/DSA/tree/master/2235-add-two-integers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/aaditya123hi/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/aaditya123hi/DSA/tree/master/2652-sum-multiples) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aaditya123hi/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aaditya123hi/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1903-largest-odd-number-in-string](https://github.com/aaditya123hi/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/aaditya123hi/DSA/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/aaditya123hi/DSA/tree/master/0709-to-lower-case) |
 | [1816-truncate-sentence](https://github.com/aaditya123hi/DSA/tree/master/1816-truncate-sentence) |
+| [1903-largest-odd-number-in-string](https://github.com/aaditya123hi/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aaditya123hi/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2942-find-words-containing-character](https://github.com/aaditya123hi/DSA/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/aaditya123hi/DSA/tree/master/3019-number-of-changing-keys) |
