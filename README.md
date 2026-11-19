@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aaditya123hi/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/aaditya123hi/DSA/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/aaditya123hi/DSA/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/aaditya123hi/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aaditya123hi/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aaditya123hi/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/aaditya123hi/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/aaditya123hi/DSA/tree/master/0344-reverse-string) |
 | [0657-robot-return-to-origin](https://github.com/aaditya123hi/DSA/tree/master/0657-robot-return-to-origin) |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aaditya123hi/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aaditya123hi/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
