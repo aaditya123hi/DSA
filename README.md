@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/aaditya123hi/DSA/tree/master/0344-reverse-string) |
 | [0657-robot-return-to-origin](https://github.com/aaditya123hi/DSA/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/aaditya123hi/DSA/tree/master/0709-to-lower-case) |
 | [1816-truncate-sentence](https://github.com/aaditya123hi/DSA/tree/master/1816-truncate-sentence) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/aaditya123hi/DSA/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/aaditya123hi/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aaditya123hi/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aaditya123hi/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
