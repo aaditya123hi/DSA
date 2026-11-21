@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/aaditya123hi/DSA/tree/master/0344-reverse-string) |
 | [0657-robot-return-to-origin](https://github.com/aaditya123hi/DSA/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/aaditya123hi/DSA/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/aaditya123hi/DSA/tree/master/0796-rotate-string) |
 | [1816-truncate-sentence](https://github.com/aaditya123hi/DSA/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/aaditya123hi/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aaditya123hi/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -183,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aaditya123hi/DSA/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/aaditya123hi/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
