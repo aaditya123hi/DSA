@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/aaditya123hi/DSA/tree/master/0048-rotate-image) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aaditya123hi/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/aaditya123hi/DSA/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/aaditya123hi/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/aaditya123hi/DSA/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aaditya123hi/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/aaditya123hi/DSA/tree/master/1486-xor-operation-in-an-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aaditya123hi/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aaditya123hi/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0509-fibonacci-number](https://github.com/aaditya123hi/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/aaditya123hi/DSA/tree/master/0877-stone-game) |
 ## Greedy
 |  |
@@ -204,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/aaditya123hi/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aaditya123hi/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aaditya123hi/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
