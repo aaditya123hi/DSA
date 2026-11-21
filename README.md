@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/aaditya123hi/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aaditya123hi/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aaditya123hi/DSA/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/aaditya123hi/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/aaditya123hi/DSA/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/aaditya123hi/DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/aaditya123hi/DSA/tree/master/0796-rotate-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/aaditya123hi/DSA/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/aaditya123hi/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/aaditya123hi/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aaditya123hi/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aaditya123hi/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aaditya123hi/DSA/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/aaditya123hi/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aaditya123hi/DSA/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/aaditya123hi/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aaditya123hi/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/aaditya123hi/DSA/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aaditya123hi/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/aaditya123hi/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/aaditya123hi/DSA/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aaditya123hi/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Binary Search
@@ -191,4 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/aaditya123hi/DSA/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/aaditya123hi/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/aaditya123hi/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
