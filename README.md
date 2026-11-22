@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aaditya123hi/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aaditya123hi/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/aaditya123hi/DSA/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/aaditya123hi/DSA/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aaditya123hi/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0682-baseball-game](https://github.com/aaditya123hi/DSA/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/aaditya123hi/DSA/tree/master/0877-stone-game) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/aaditya123hi/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aaditya123hi/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/aaditya123hi/DSA/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/aaditya123hi/DSA/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aaditya123hi/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/aaditya123hi/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/aaditya123hi/DSA/tree/master/0509-fibonacci-number) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/aaditya123hi/DSA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/aaditya123hi/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/aaditya123hi/DSA/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/aaditya123hi/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aaditya123hi/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
