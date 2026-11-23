@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aaditya123hi/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/aaditya123hi/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/aaditya123hi/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/aaditya123hi/DSA/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aaditya123hi/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0682-baseball-game](https://github.com/aaditya123hi/DSA/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/aaditya123hi/DSA/tree/master/0877-stone-game) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/aaditya123hi/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/aaditya123hi/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/aaditya123hi/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/aaditya123hi/DSA/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aaditya123hi/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/aaditya123hi/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/aaditya123hi/DSA/tree/master/0509-fibonacci-number) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/aaditya123hi/DSA/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/aaditya123hi/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/aaditya123hi/DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## String
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/aaditya123hi/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/aaditya123hi/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/aaditya123hi/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/aaditya123hi/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aaditya123hi/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aaditya123hi/DSA/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/aaditya123hi/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aaditya123hi/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/aaditya123hi/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/aaditya123hi/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aaditya123hi/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/aaditya123hi/DSA/tree/master/1512-number-of-good-pairs) |
@@ -167,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/aaditya123hi/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/aaditya123hi/DSA/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/aaditya123hi/DSA/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aaditya123hi/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aaditya123hi/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
