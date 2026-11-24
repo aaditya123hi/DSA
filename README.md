@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aaditya123hi/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/aaditya123hi/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/aaditya123hi/DSA/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/aaditya123hi/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aaditya123hi/DSA/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aaditya123hi/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0682-baseball-game](https://github.com/aaditya123hi/DSA/tree/master/0682-baseball-game) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/aaditya123hi/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aaditya123hi/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aaditya123hi/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/aaditya123hi/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aaditya123hi/DSA/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/aaditya123hi/DSA/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/aaditya123hi/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aaditya123hi/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/aaditya123hi/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/aaditya123hi/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/aaditya123hi/DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/aaditya123hi/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/aaditya123hi/DSA/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/aaditya123hi/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -224,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/aaditya123hi/DSA/tree/master/0509-fibonacci-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/aaditya123hi/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
